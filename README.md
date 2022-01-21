@@ -1,2 +1,2 @@
 # portfolio.github.io
-This My Portfolio Website.
+This is my portfolio website
